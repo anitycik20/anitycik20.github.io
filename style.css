@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #675860
+}
+a{
+    color: #7A2728;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 45px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 80px 0px 80px; 
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 50px 75px 50px 75px;
+    color: #7A2728;
+
+}
+p{
+    position: absolute;
+    top: 233px;
+    right: 590px;
+    color: #7A2728;
+}
+main{
+    position: relative;
+}
+.foto{
+    padding-top: 20px;
+    padding-left: 35px
+}
+hr{
+    width: 90%;
+}
+.hr2{
+    width: 90%;
+}
+.hr3{
+    width: 90%;
+}
+.foto2{
+    padding-left: 750px;
+    padding-top: 20px;
+}
+.foto3{
+    padding-top: 20px;
+    padding-left: 35px
+}
+.p2{
+    right: 255px;
+    top: 550px;
+    font-size: 30px;
+}
+.p3{
+    left: 255px;
+    top: 1150px;
+    font-size: 30px;
+}
+.p4{
+    font-size: 30px;
+    right: 255px;
+    top: 1750px
+}
+.hr4{
+    width: 90%;
+}
+.footer{
+    display: space-between;
+}
+.t2{
+    font-size: 30px;
+    
+}
